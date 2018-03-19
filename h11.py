@@ -1,2 +1,2 @@
- string="hello world"
+ string=str(input())
  print(string[::-1])
